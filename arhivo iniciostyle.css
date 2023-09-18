@@ -1,0 +1,54 @@
+header {
+    background-image: url("https://thumbs.dreamstime.com/b/bandera-floral-del-verano-68560263.jpg");
+    background-size: cover;
+    padding: 20px;
+    color: #35D6CD;
+    font-size: 15px;
+    text-align: center;
+    -webkit-text-stroke: 1px #ACBEBD;
+}
+.lista-navbar{
+    background: none;
+    color: rgb(38, 63, 55);
+    border: none;
+}
+.lista-navbar:hover{
+    background-color: #FFFFFF;
+    background-image: linear-gradient(180deg, #FFFFFF 0%, #6284FF 50%, #FF0000 100%);
+    border-radius: 20px;
+}
+.Título1 {
+    color: #3B8ED1;
+    font-family: 'Space Grotesk', sans-serif;
+    text-align: center;
+    padding: 20px;
+}
+.card-text {
+    font-family: sans-serif;
+}
+.Lista1 {
+    font-family: sans-serif;
+}
+.Img2 {
+    width: 300px; 
+    height: auto;
+    display: block;     
+    margin: 0 auto;
+}
+.Img1 {
+    width: 300px; 
+    height: auto;
+    display: block;     
+    margin: 0 auto;
+}
+.video1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+video {
+    max-width: 100%;
+    height: auto;
+}

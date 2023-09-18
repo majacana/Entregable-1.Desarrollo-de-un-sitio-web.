@@ -1,0 +1,59 @@
+header{
+background-color: #30B7A0;
+    text-align: center;
+    padding: 20px;
+    color: maroon;
+    font-size: 20px;
+    -webkit-text-stroke: 1px #258580;
+}
+.minavbar{
+    background-color: #85FFBD;
+background-image: linear-gradient(45deg, #85FFBD 0%, #FFFB7D 100%);
+
+}
+.lista-navbar{
+    background: none;
+    color: rgb(43, 48, 54);
+    border: none;
+}
+.lista-navbar:hover{
+    background-color: #FF3CAC;
+    background-image: linear-gradient(225deg, #FF3CAC 0%, #784BA0 50%, #2B86C5 100%);
+    border-radius: 20px;
+}
+.Título1 {
+    color: #3B8ED1;
+    font-family: 'Space Grotesk', sans-serif;
+    text-align: center;
+    padding: 20px;
+}
+.card-text {
+    font-family: sans-serif;
+}
+.Lista1 {
+    font-family: sans-serif;
+}
+.Img2 {
+    width: 300px; 
+    height: auto;
+    display: block;     
+    margin: 0 auto;
+}
+.Img1 {
+    width: 300px; 
+    height: auto;
+    display: block;     
+    margin: 0 auto;
+}
+.video1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+video {
+    max-width: 100%;
+    height: auto;
+}
+
